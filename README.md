@@ -4,9 +4,7 @@
 
 ## **PasST指标**
 
-![kld_plot](image/kld_plot.png)
-
-
+![kld_plot](./assets/kld_plot.png)
 
 
 
