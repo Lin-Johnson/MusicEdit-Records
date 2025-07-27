@@ -1,10 +1,40 @@
 
 
+# <font color="LighBlue">Stable Audio Open</font>
+
+## 指标
+
+- ### FD Openl3 ↓
 
 
-## **PasST指标**
 
-![kld_plot](./assets/kld_plot.png)
+- ###  KL PasST ↓
+
+<img src="./assets/kld_plot.png" alt="kld_plot" style="zoom:20%;" />
+
+- ### CLAP Score ↑
+
+
+
+
+
+
+
+# Music Editing Examples
+
+
+
+| Text Prompt | Audio | Edit Prompt | Edit Audio |
+| :---------: | :---: | :---------: | :--------: |
+|             |       |             |            |
+|             |       |             |            |
+|             |       |             |            |
+|             |       |             |            |
+|             |       |             |            |
+|             |       |             |            |
+|             |       |             |            |
+
+
 
 
 
