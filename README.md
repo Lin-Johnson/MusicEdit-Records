@@ -4,13 +4,19 @@
 
 ## 指标
 
+|                         FD Openl3 ↓                         |                       KL PasST ↓                       |                      CLAP Score ↑                      |
+| :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+| <img src="./assets/sa_FD_openl3.png" alt="sa_FD_openl3"  /> | <img src="./assets/sa_KL_Score.png" alt="kld_plot"  /> | <img src="./assets/sa_KL_Score.png" alt="kld_plot"  /> |
+
+
+
 - ### FD Openl3 ↓
 
-
+<img src="./assets/sa_FD_openl3.png" alt="sa_FD_openl3"  />
 
 - ###  KL PasST ↓
 
-<img src="./assets/kld_plot.png" alt="kld_plot" style="zoom:20%;" />
+<img src="./assets/sa_KL_Score.png" alt="kld_plot"  />
 
 - ### CLAP Score ↑
 

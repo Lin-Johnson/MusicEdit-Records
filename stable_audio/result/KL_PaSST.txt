@@ -1,0 +1,72 @@
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/0
+KLD Value: 0.7972015738487244
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/1
+KLD Value: 0.36697226762771606
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/2
+KLD Value: 0.9332462549209595
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/3
+KLD Value: 1.405365228652954
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/4
+KLD Value: 0.715400218963623
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/5
+KLD Value: 0.5354776382446289
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/6
+KLD Value: 0.34712710976600647
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/7
+KLD Value: 0.28143832087516785
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/8
+KLD Value: 0.3090488016605377
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/9
+KLD Value: 0.2408110499382019
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/10
+KLD Value: 0.34596559405326843
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/11
+KLD Value: 0.6029278635978699
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/12
+KLD Value: 0.9230767488479614
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/13
+KLD Value: 0.6976521015167236
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/14
+KLD Value: 0.5553938746452332
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/15
+KLD Value: 0.5859206318855286
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/16
+KLD Value: 0.48764997720718384
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/17
+KLD Value: 0.5550572872161865
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/18
+KLD Value: 0.6537331938743591
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/19
+KLD Value: 0.46905314922332764
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/20
+KLD Value: 0.6222253441810608
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/21
+KLD Value: 0.4716208279132843
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/22
+KLD Value: 0.5261592864990234
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/23
+KLD Value: 0.7852052450180054
+------------------------------
