@@ -4,9 +4,9 @@
 
 ## 指标
 
-|                         FD Openl3 ↓                         |                       KL PasST ↓                       |                      CLAP Score ↑                      |
-| :---------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-| <img src="./assets/sa_FD_openl3.png" alt="sa_FD_openl3"  /> | <img src="./assets/sa_KL_Score.png" alt="kld_plot"  /> | <img src="./assets/sa_KL_Score.png" alt="kld_plot"  /> |
+|                         FD Openl3 ↓                         |                       KL PasST ↓                       |                 CLAP Score ↑                 |
+| :---------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------: |
+| <img src="./assets/sa_FD_openl3.png" alt="sa_FD_openl3"  /> | <img src="./assets/sa_KL_PasST.png" alt="kld_plot"  /> | ![sa_CLAP_Score](./assets/sa_CLAP_Score.png) |
 
 
 
@@ -16,17 +16,33 @@
 
 - ###  KL PasST ↓
 
-<img src="./assets/sa_KL_Score.png" alt="kld_plot"  />
+<img src="./assets/sa_KL_PasST.png" alt="kld_plot"  />
 
 - ### CLAP Score ↑
 
-
+![sa_CLAP_Score](./assets/sa_CLAP_Score.png)
 
 
 
 
 
 # Music Editing Examples
+
+|            Text Prompt             | Original Audio |
+| :--------------------------------: | :------------: |
+| Format: Solo \| Instruments: Piano |                |
+
+| Edit Method | Edit Prompt | Edit Audio |
+| :---------: | :---------: | :--------: |
+|             |             |            |
+|             |             |            |
+|             |             |            |
+|             |             |            |
+|             |             |            |
+|             |             |            |
+|             |             |            |
+
+
 
 
 

@@ -82,9 +82,9 @@ def plot_scatter(values, xlabel="Layer Index", ylabel=None, title=None):
 # 使用示例
 if __name__ == "__main__":
     # 参数配置
-    FILE_PATH = "FD_openl3.txt"  # 替换为实际文件路径
+    FILE_PATH = "CLAP_Score.txt"  # 替换为实际文件路径
     VALUE_KEYWORD = "FD Value"  # 可改为 "KL Value" 或 "KL" 等
-    YLABEL = "FD Openl3"
+    YLABEL = "CLAP Score"
     
     # 提取数据并绘图
     kld_values = extract_values(FILE_PATH, VALUE_KEYWORD)

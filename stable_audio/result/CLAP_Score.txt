@@ -1,0 +1,73 @@
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/0
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/0
+FD Value: 0.3381945490837097
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/1
+FD Value: 0.3273651897907257
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/2
+FD Value: 0.26341554522514343
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/3
+FD Value: 0.16548176109790802
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/4
+FD Value: 0.2923944592475891
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/5
+FD Value: 0.3032706677913666
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/6
+FD Value: 0.3205462396144867
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/7
+FD Value: 0.32210275530815125
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/8
+FD Value: 0.3237743079662323
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/9
+FD Value: 0.32673805952072144
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/10
+FD Value: 0.32911086082458496
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/11
+FD Value: 0.3055761158466339
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/12
+FD Value: 0.28722742199897766
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/13
+FD Value: 0.30217090249061584
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/14
+FD Value: 0.31054550409317017
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/15
+FD Value: 0.3116535544395447
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/16
+FD Value: 0.30499932169914246
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/17
+FD Value: 0.3195263743400574
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/18
+FD Value: 0.311290442943573
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/19
+FD Value: 0.30642077326774597
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/20
+FD Value: 0.32272303104400635
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/21
+FD Value: 0.3462923467159271
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/22
+FD Value: 0.3032597303390503
+------------------------------
+Evaluation Path: /public/home/linzhaocheng/stable-flow/outputs/skip/23
+FD Value: 0.2918391227722168
+------------------------------
