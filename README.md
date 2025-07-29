@@ -4,23 +4,24 @@
 
 ## 指标
 
-|                         FD Openl3 ↓                         |                       KL PasST ↓                       |                 CLAP Score ↑                 |
-| :---------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------: |
-| <img src="./assets/sa_FD_openl3.png" alt="sa_FD_openl3"  /> | <img src="./assets/sa_KL_PasST.png" alt="kld_plot"  /> | ![sa_CLAP_Score](./assets/sa_CLAP_Score.png) |
+|                         FD Openl3 ↓                          |                          KL PasST ↓                          |                     CLAP Score ↑                      |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------: |
+| ![sa_FD_Openl3_withmean](./assets/sa_FD_Openl3_withmean.png) | <img src="./assets/sa_KL_PasST_withmean.png" alt="kld_plot"  /> | ![sa_CLAP_Score](./assets/sa_CLAP_Score_withmean.png) |
+|                  [0, 3, 18, 20, 21, 22, 23]                  |             [0, 2, 3, 4, 11, 12, 13, 18, 20, 23]             |           [2, 3, 4, 5, 12, 13, 16, 22, 23]            |
 
 
 
 - ### FD Openl3 ↓
 
-<img src="./assets/sa_FD_openl3.png" alt="sa_FD_openl3"  />
+![sa_FD_Openl3_withmean](./assets/sa_FD_Openl3_withmean.png)
 
 - ###  KL PasST ↓
 
-<img src="./assets/sa_KL_PasST.png" alt="kld_plot"  />
+  <img src="./assets/sa_KL_PasST_withmean.png" alt="kld_plot"  />
 
 - ### CLAP Score ↑
 
-![sa_CLAP_Score](./assets/sa_CLAP_Score.png)
+![sa_CLAP_Score_withmean](./assets/sa_CLAP_Score_withmean.png)
 
 
 
@@ -32,60 +33,49 @@
 | :--------------------------------: | :------------: |
 | Format: Solo \| Instruments: Piano |                |
 
-| Edit Method | Edit Prompt | Edit Audio |
-| :---------: | :---------: | :--------: |
-|             |             |            |
-|             |             |            |
-|             |             |            |
-|             |             |            |
-|             |             |            |
-|             |             |            |
-|             |             |            |
+|    Edit Method     |                Edit Prompt                | Edit Audio |
+| :----------------: | :---------------------------------------: | :--------: |
+| VITAL_LAYERS = [3] |    Format: Solo \|Instruments: Guitar     |            |
+| VITAL_LAYERS = [3] | Format: Solo \|Instruments: Piano, Guitar |            |
+|                    |                                           |            |
+|                    |                                           |            |
+|                    |                                           |            |
+|                    |                                           |            |
+|                    |                                           |            |
 
 
 
+|                    Text Prompt                    | Original Audio |
+| :-----------------------------------------------: | :------------: |
+| Instruments: synthesizer arpeggio<br />合成器琶音 |                |
 
-
-| Text Prompt | Audio | Edit Prompt | Edit Audio |
-| :---------: | :---: | :---------: | :--------: |
-|             |       |             |            |
-|             |       |             |            |
-|             |       |             |            |
-|             |       |             |            |
-|             |       |             |            |
-|             |       |             |            |
-|             |       |             |            |
-
-
-
-
-
-## 01
-
-```
-Jazz, Rooftop Lounge, Laid-back Trumpet, Smooth Bass, City's Lullaby, 90 BPM
-Midnight Rooftop Jazz, Moonlit Trumpet Solo, Mellow Upright Bass, Distant City Hums, 90 BPM, Velvety Rhodes Chords, Crisp Brush Drums
-Post-Rain Jazz Club, Damp Rooftop Vibes, Reverb Trumpet, Walking Bassline, Wet Pavement Echoes, 90 BPM, Gentle Vibraphone Drops
-爵士乐，屋顶休息室，悠闲的小号，平稳的低音，城市的摇篮曲，90 BPM
-午夜屋顶爵士，月光下的小号独奏，柔和的正低音，遥远的城市嗡嗡声，90 BPM，天鹅绒罗德斯和弦，清脆的刷鼓
-雨后爵士俱乐部，潮湿的屋顶振动，混响小号，步行贝斯线，湿路面回声，90 BPM，温和的Vibraphone滴剂
-```
+|    Edit Method     |                Edit Prompt                | Edit Audio |
+| :----------------: | :---------------------------------------: | :--------: |
+| VITAL_LAYERS = [3] |            Instruments: Guitar            |            |
+| VITAL_LAYERS = [3] | Instruments: synthesizer arpeggio, Guitar |            |
+|                    |                                           |            |
+|                    |                                           |            |
+|                    |                                           |            |
+|                    |                                           |            |
+|                    |                                           |            |
 
 
 
-## 02
+|                         Text Prompt                          | Original Audio |
+| :----------------------------------------------------------: | :------------: |
+| A lush Pop instrumental featuring 808 drum machines, big synthesizer pads and catchy melodies. The mood is cool, modern and fun. 115 BPM<br />一款华丽的流行乐器，有808鼓机、大合成器垫和朗朗上口的旋律。气氛凉爽、现代、有趣。115 BPM |                |
 
-```
-"Lo-fi, Rainy Study, Chill Beats, Soft Piano, Book's Embrace, 82 BPM" "Vinyl-Crackle Lo-fi, Midnight Library Drizzle, Warped Piano Melody, Antique Pages Rustle, 82 BPM, Ticking Grandfather Clock" "Rewind Dream Lo-fi, Reversed Piano Reverie, Droplet Beat Palindrome, Burning Book Ash Crackles, 40→82 BPM Accelerando"
-```
+|    Edit Method     |                         Edit Prompt                          | Edit Audio |
+| :----------------: | :----------------------------------------------------------: | :--------: |
+| VITAL_LAYERS = [3] | A lush Pop instrumental featuring guitar and catchy melodies. The mood is cool, modern and fun. 115 BPM |            |
+| VITAL_LAYERS = [3] | A lush Pop instrumental featuring guitar, 808 <br/>drum machines, big synthesizer pads and catchy melodies. The mood is cool, modern and fun. 115 BPM |            |
+|                    |                                                              |            |
+|                    |                                                              |            |
+|                    |                                                              |            |
+|                    |                                                              |            |
+|                    |                                                              |            |
 
 
-
-## 03
-
-```
-
-```
 
 
 

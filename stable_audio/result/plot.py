@@ -50,6 +50,14 @@ def plot_scatter(values, xlabel="Layer Index", ylabel=None, title=None):
     
     plt.figure(figsize=(12, 6))
     plt.scatter(indices, values, s=80, alpha=0.7, c='royalblue', edgecolor='black')
+
+    mean_value = sum(values) / len(values)
+    plt.axhline(y=mean_value, 
+                color='red', 
+                linestyle='--', 
+                linewidth=2)
+    
+    print(mean_value)
     
     # 设置图表属性 - 无网格线
     plt.xlabel(xlabel, fontsize=20, fontname='Times New Roman', labelpad=18)
@@ -82,9 +90,9 @@ def plot_scatter(values, xlabel="Layer Index", ylabel=None, title=None):
 # 使用示例
 if __name__ == "__main__":
     # 参数配置
-    FILE_PATH = "CLAP_Score.txt"  # 替换为实际文件路径
+    FILE_PATH = "FD_Openl3.txt"  # 替换为实际文件路径
     VALUE_KEYWORD = "FD Value"  # 可改为 "KL Value" 或 "KL" 等
-    YLABEL = "CLAP Score"
+    YLABEL = "FD Openl3"
     
     # 提取数据并绘图
     kld_values = extract_values(FILE_PATH, VALUE_KEYWORD)
